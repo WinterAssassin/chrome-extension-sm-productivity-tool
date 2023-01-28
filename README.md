@@ -1,1 +1,1 @@
-# chrome-extension-SMproductivity-tool
+# chrome-extension-sm-productivity-tool
